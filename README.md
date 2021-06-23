@@ -22,7 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-`![App Walkthrough](screenshots/SimpleToDoDemo.gif)`
+![App Walkthrough](screenshots/SimpleToDoDemo.gif)
+
 
 GIF created with [Kap](https://getkap.co/).
 
