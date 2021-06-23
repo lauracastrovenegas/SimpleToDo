@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Imgur](https://i.imgur.com/yby9hiv.gifv)
+`![Imgur](https://i.imgur.com/yby9hiv.gifv)`
 
 GIF created with [Kap](https://getkap.co/).
 
