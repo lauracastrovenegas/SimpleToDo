@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-`![Imgur](https://i.imgur.com/yby9hiv.gifv)`
+`![App Walkthrough](screenshots/Screen Recording 2021-06-22 at 8.56.09 PM.gif)`
 
 GIF created with [Kap](https://getkap.co/).
 
