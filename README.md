@@ -26,10 +26,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Kap](https://getkap.co/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2021] [Laura Castro Venegas]
