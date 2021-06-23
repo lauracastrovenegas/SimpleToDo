@@ -22,9 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe class="imgur-embed" width="100%" height="1466" frameborder="0" src="https://i.imgur.com/1bPo9u6.gifv#embed"></iframe>
-
-<img src='https://i.imgur.com/1bPo9u6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/1bPo9u6.gifv#embed' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
